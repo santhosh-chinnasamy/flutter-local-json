@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-This Project lets us lo load local json data into cardview
+This Project lets us to load local json data into cardview
 
 ## Getting Started
 
